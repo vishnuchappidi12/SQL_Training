@@ -1,0 +1,10 @@
+-------- Covered Topics-------------------------
+Key: Recognize each and every record Uniquely in a given relation
+Super Key: All possible set of keys are super Keys
+Candidate Key: A minimal set of Super key considered as candidate key
+Primary Key:
+Foreign Key:
+Check Constraint:
+Not null Constraint:
+Unique Key:
+----------------------------------------
