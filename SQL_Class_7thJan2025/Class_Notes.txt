@@ -2,9 +2,10 @@
 Key: Recognize each and every record Uniquely in a given relation
 Super Key: All possible set of keys are super Keys
 Candidate Key: A minimal set of Super key considered as candidate key
-Primary Key:
-Foreign Key:
-Check Constraint:
-Not null Constraint:
-Unique Key:
+Primary Key:Among candidate Keys any one key we will considered as it is a primary key
+Note:Every relation should conatin only one primary key but there may be any no.of candidate keys.
+Foreign Key: If one table primary key refered in a other table it will become foreign key for referred table.
+Check Constarint:Before inserting data to verify value given for particular field ststaics given criteria or not. 
+Unique Key:It doesn't allow Duplicates values,but allow null values.
+Not null Constraint: Not nul Constraint Doesn't  allow null values,It allow duplicates values.
 ----------------------------------------
